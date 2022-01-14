@@ -21,6 +21,6 @@
                                    para esse arquivo. E se retornarmos o arquivo para sua 
                                    versão anterior, você ira perceber que os caracteres são
                                    os mesmo gerados da primeira vez. 
-                                   Com o uso do sha1 além de ele te dar essa seguranção ele
+                                   Com o uso do sha1 além de ele te dar essa segurança ele
                                    permite o seu uso no Git para adcionar novas versões do
                                    seu arquivo de forma mais rápida.                   
