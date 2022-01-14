@@ -1,0 +1,26 @@
+
+
+
+
+
+                                   ##_Conhecendo o sha1 e a sua utilidade dentro do Git_##
+
+            
+                                        O sha1 é um algoritmo de incriptação.
+                                   Descrevendo em um modo bem grosseiro e de forma simples,
+                                   ele nos garante de forma segura a integridade dos nossos
+                                   arquivos.
+                                   O sha1 transforma os arquivos em códigos criptografados
+                                   em formado de 40 caracteres.
+                                   Gerando assim pra esse arquivo uma digital inalterada,
+                                   de forma que, se você alterar qualquer linha de comando
+                                   com um acrécimo de uma(,) nesse arquivo raiz e, 
+                                   usar o comando sha1 para gerar 
+                                   o código criptografado, você ira perceber que os 
+                                   caracteres seram alteredos criando assim uma nova digital
+                                   para esse arquivo. E se retornarmos o arquivo para sua 
+                                   versão anterior, você ira perceber que os caracteres são
+                                   os mesmo gerados da primeira vez. 
+                                   Com o uso do sha1 além de ele te dar essa seguranção ele
+                                   permite o seu uso no Git para adcionar novas versões do
+                                   seu arquivo de forma mais rápida.                   
